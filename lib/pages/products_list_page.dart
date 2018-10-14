@@ -106,7 +106,7 @@ class ProductsListPage extends StatelessWidget {
         originalPrice: 699,
         discount: 25,
         imageUrl:
-            "https://sn.joharishop.com/images/product-images/candere_thumb/gr00103_3.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/91bXLuPC96L._UY535_.jpg",
       ),
       ProductsListItem(
         name: "David Klin",
