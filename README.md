@@ -1,5 +1,5 @@
 # Flutter Play
-A Google Play clone made using flutter. Using nested tabs and and scrolls.
+Jewellery In-App purchase using flutter.
 
 ![Flutter Play](/assets/flutter-play.jpeg)
 
