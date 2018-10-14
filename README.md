@@ -1,4 +1,4 @@
-# Flutter Play
+# JEWELLERY APP
 Jewellery In-App purchase using flutter.
 
 ![Flutter Play](/assets/flutter-play.jpeg)
